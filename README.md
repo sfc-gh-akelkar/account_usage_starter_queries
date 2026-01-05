@@ -4,7 +4,7 @@ Sample queries to approximate Snowflake "Product Category" or "Workload" views u
 
 ## ⚠️ Important Disclaimer
 
-The A360 dashboards and Product Category views you may have seen are powered by **internal telemetry and classification pipelines** that use additional metadata not exposed in the public `ACCOUNT_USAGE` views. 
+The Product Category dashboards and workload views you may have seen are powered by **internal telemetry and classification pipelines** that use additional metadata not exposed in the public `ACCOUNT_USAGE` views. 
 
 **These queries are best-effort approximations.** They will not exactly match the official Product Categories or workload views, but they provide a reproducible and transparent starting point for understanding how credits are distributed across different types of workloads in your account.
 
