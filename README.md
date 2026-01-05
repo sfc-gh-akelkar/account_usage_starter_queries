@@ -145,9 +145,4 @@ GROUP BY 1
 | **Data latency** | ACCOUNT_USAGE views have up to 45 min – 3 hour latency |
 | **Retention** | Most views retain 365 days of data |
 
----
-
-## Questions?
-
-For questions about these queries or help customizing them for your environment, reach out to your Snowflake account team.
 
